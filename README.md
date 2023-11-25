@@ -3,7 +3,9 @@
 ## Présentation du CTF 
 **ID** 53 dans **les CTFs de Cyrhades**
 
-Bonjour Agent X Rdv demain 21h à ///orteil.biscotte.porter. Le code est "la_tomate_est_crue", des dossiers importants vous seront transmis par l'agent Galahad. Soyez discret.
+Bonjour Agent X Rdv demain 21h à ///orteil.biscotte.porter. 
+Des dossiers importants vous seront transmis par l'agent Galahad. 
+Soyez discret.
 
 
 Parviendrez vous à trouver le lieu de rendez vous ?
